@@ -7,7 +7,7 @@ As someone who loves experimenting with a ton of different decks in a short amou
 
 Powered by **DataviewJS**, this tracker automatically fetches real-time data from the Scryfall API and EDHREC, providing a clean, interactive, and locally persistent UI right in your vault.
 
-![MTG Dashboard Preview](assets/print.png)
+
 
 ##  Features
 
