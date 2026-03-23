@@ -1,6 +1,6 @@
 # MTG Commander Tracker for Obsidian
 
-A lightweight,tracker built directly inside [Obsidian](https://obsidian.md/) to manage your next Magic: The Gathering Commander playthrough.
+A lightweight tracker built directly inside [Obsidian](https://obsidian.md/) to manage your next Magic: The Gathering Commander playthrough.
 
 **Why did I build this?**
 As someone who loves experimenting with a ton of different decks in a short amount of time on Tabletop Simulator, I needed a way to keep track of what I was brewing, playing, and winning with. I created this little project to stay organized and keep all my deck stats in one place.
