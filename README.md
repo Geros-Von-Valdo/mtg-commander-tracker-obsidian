@@ -1,6 +1,9 @@
 # MTG Commander Tracker for Obsidian
 
-A lightweight, full-stack dashboard built directly inside [Obsidian](https://obsidian.md/) to manage your Magic: The Gathering Commander decks. 
+A lightweight,tracker built directly inside [Obsidian](https://obsidian.md/) to manage your next Magic: The Gathering Commander playthrough.
+
+**Why did I build this?**
+As someone who loves experimenting with a ton of different decks in a short amount of time on Tabletop Simulator, I needed a way to keep track of what I was brewing, playing, and winning with. I created this little project to stay organized and keep all my deck stats in one place.
 
 Powered by **DataviewJS**, this tracker automatically fetches real-time data from the Scryfall API and EDHREC, providing a clean, interactive, and locally persistent UI right in your vault.
 
@@ -8,7 +11,7 @@ Powered by **DataviewJS**, this tracker automatically fetches real-time data fro
 
 - **Automated Data Scraping:** Simply paste an EDHREC URL, and the script fetches the commander's name, card art, color identity, rank, and top themes automatically.
 - **Local Persistence:** All your deck data is saved in a local `commanders.json` file. No databases to configure, everything stays in your vault.
-- **Interactive Dashboard:** - Sort by rank, name, colors, or win rate.
+- **Interactive Dashboard:** - Sort by rank, name, colors, or your win rate.
   - Track "Played" status and "Wins" directly from the table.
 - **Click-to-Zoom Lightbox:** Click on any commander's art to open a high-resolution, full-screen preview.
 - **Theme Agnostic:** Designed with Obsidian's native CSS variables to look great on any Light or Dark theme without breaking the layout.
@@ -46,4 +49,6 @@ Setting up the tracker is quick and requires only one community plugin.
 This tool relies on client-side fetching. Images are loaded dynamically via Scryfall's CDN and cached by Obsidian, ensuring optimal performance without bloating your vault size. The layout includes a custom CSS injection to bypass default Obsidian reading margins, maximizing your screen real estate.
 
 ---
-*Built for MTG players who love keeping their data organized.*
+### ⚖️ Legal Disclaimer
+
+*This project is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Magic: The Gathering and its art are property of Wizards of the Coast. No copyright infringement intended.*
