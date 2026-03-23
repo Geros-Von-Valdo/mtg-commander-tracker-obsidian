@@ -49,6 +49,6 @@ Setting up the tracker is quick and requires only one community plugin.
 This tool relies on client-side fetching. Images are loaded dynamically via Scryfall's CDN and cached by Obsidian, ensuring optimal performance without bloating your vault size. The layout includes a custom CSS injection to bypass default Obsidian reading margins, maximizing your screen real estate.
 
 ---
-### ⚖️ Legal Disclaimer
+### Legal Disclaimer
 
 *This project is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. Magic: The Gathering and its art are property of Wizards of the Coast. No copyright infringement intended.*
